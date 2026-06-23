@@ -20,10 +20,12 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0078-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0051-n-queens](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
