@@ -16,6 +16,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0344-reverse-string](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -31,4 +32,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0078-subsets/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
