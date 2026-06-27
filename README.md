@@ -15,6 +15,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0344-reverse-string/) | Easy |
+| [0922-sort-array-by-parity-ii](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0078-subsets/) | Medium |
+| [0922-sort-array-by-parity-ii](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -50,4 +52,8 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0050-powx-n/) | Medium |
 | [0390-elimination-game](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0390-elimination-game/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0922-sort-array-by-parity-ii](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 <!---LeetCode Topics End-->
