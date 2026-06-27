@@ -10,6 +10,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0050-powx-n/) | Medium |
+| [0390-elimination-game](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0390-elimination-game/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,4 +49,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0050-powx-n/) | Medium |
+| [0390-elimination-game](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0390-elimination-game/) | Medium |
 <!---LeetCode Topics End-->
