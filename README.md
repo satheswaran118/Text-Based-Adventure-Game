@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0344-reverse-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0242-valid-anagram](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0242-valid-anagram/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -56,6 +58,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0242-valid-anagram/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
