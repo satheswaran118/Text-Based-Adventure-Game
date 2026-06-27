@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0078-subsets/) | Medium |
+| [0198-house-robber](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0198-house-robber/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/1695-maximum-erasure-value/) | Medium |
 ## Backtracking
@@ -56,4 +57,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0922-sort-array-by-parity-ii](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
