@@ -64,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0198-house-robber/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
