@@ -69,4 +69,5 @@
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0182-duplicate-emails/) | Easy |
 | [0595-big-countries](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0595-big-countries/) | Easy |
+| [0610-triangle-judgement](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
