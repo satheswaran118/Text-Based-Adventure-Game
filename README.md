@@ -25,6 +25,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0001-two-sum/) | Easy |
 | [0051-n-queens](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0078-subsets/) | Medium |
 | [0198-house-robber](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0198-house-robber/) | Medium |
@@ -42,6 +43,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/0242-valid-anagram/) | Easy |
 | [1695-maximum-erasure-value](https://github.com/satheswaran118/Text-Based-Adventure-Game/tree/main/1695-maximum-erasure-value/) | Medium |
